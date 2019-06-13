@@ -1,5 +1,5 @@
 # Barotrauma Legacy Master Server
-Master Server for Barotrauma Legacy
+A master server remake for Barotrauma Legacy
 
 Licensed under GNU General Public License v3.0
 
