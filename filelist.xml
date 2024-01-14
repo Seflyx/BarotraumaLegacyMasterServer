@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filelist updaterversion="1.1">
+  <!--file path="path_to_file1" md5="md5_of_file1"></file -->
+  <!--file path="path_to_file1" md5="md5_of_file2"></file -->
+</filelist>
